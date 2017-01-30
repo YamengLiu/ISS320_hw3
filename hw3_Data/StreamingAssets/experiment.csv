@@ -1,0 +1,6 @@
+stimulus1, 7.0, true
+stimulus2, 8.0, true
+stimulus3, 5.0, false
+stimulus2, 3.0, false
+stimulus2, 5.0, true
+stimulus1, 2.0, true
